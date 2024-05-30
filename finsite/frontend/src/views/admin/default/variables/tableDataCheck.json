@@ -1,0 +1,61 @@
+[{
+  "Type":["Horizon UI PRO",false],
+  "Amount": 2458, 
+  "date": "12 Jan 2021",
+  "Category": 17.5  
+},
+{
+  "Type":["Horizon UI Free",true],
+  "Amount": 1485, 
+  "date": "21 Feb 2021",
+  "Category": 10.8  
+},
+{
+  "Type":["Weekly Update",true],
+  "Amount": 1024, 
+  "date": "13 Mar 2021",
+  "Category": 21.3  
+},
+{
+  "Type":["Venus 3D Asset",true],
+  "Amount": 858, 
+  "date": "24 Jan 2021",
+  "Category": 31.5  
+},
+{
+  "Type":["Marketplace",false],
+  "Amount": 258, 
+  "date": "24 Oct 2022",
+  "Category": 12.2  
+},
+{
+  "Type":["Horizon UI PRO",false],
+  "Amount": 2458, 
+  "date": "12 Jan 2021",
+  "Category": 17.5  
+},
+{
+  "Type":["Horizon UI Free",true],
+  "Amount": 1485, 
+  "date": "21 Feb 2021",
+  "Category": 10.8  
+},
+{
+  "Type":["Weekly Update",true],
+  "Amount": 1024, 
+  "date": "13 Mar 2021",
+  "Category": 21.3  
+},
+{
+  "Type":["Venus 3D Asset",true],
+  "Amount": 858, 
+  "date": "24 Jan 2021",
+  "Category": 31.5  
+},
+{
+  "Type":["Marketplace",false],
+  "Amount": 258, 
+  "date": "24 Oct 2022",
+  "Category": 12.2  
+}
+]
